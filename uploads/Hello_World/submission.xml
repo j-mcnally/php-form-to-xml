@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <status>
+    <code>Test</code>
+    <email>Hello World</email>
+  </status>
+  <cities>
+    <cities1>HI</cities1>
+  </cities>
+</application>
